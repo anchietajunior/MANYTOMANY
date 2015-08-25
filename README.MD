@@ -1,4 +1,4 @@
-== ManyToMany
+# ManyToMany
 
 **Ruby -v 2.2.2**
 
